@@ -14,3 +14,8 @@ def call() {
         throw err
     }	
 }
+
+def othermethodTest() {
+	echo "In other method"
+	
+}
