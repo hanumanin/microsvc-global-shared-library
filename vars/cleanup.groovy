@@ -1,5 +1,5 @@
 #!/usr/bin/groovy
-immport builddesc.groovy
+immport builddesc
 def call() {
         echo "In CleanUp method"
       echo " Hello Cleanup"   
