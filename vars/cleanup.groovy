@@ -5,3 +5,9 @@ def call() {
       echo " Hello Cleanup"   
         othermethodTest();
 }
+
+
+def othermethodTest() {
+	echo "In other method"
+	
+}
