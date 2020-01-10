@@ -16,6 +16,6 @@ def call() {
 }
 
 def othermethodTest() {
-	echo "In other method"
+	echo "In other method **************"
 	
 }
